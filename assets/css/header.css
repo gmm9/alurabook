@@ -124,7 +124,7 @@ li {
     .opcoes__item:hover {
         background: var(--azul-degrade);
     }
-    .opcoes__link:hover {
+    .opcoes__link:hover,.opcoes__item:hover {
     color: var(--branco);
     }
 
