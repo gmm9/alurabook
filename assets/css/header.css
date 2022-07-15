@@ -124,7 +124,7 @@
 
     }
     .lista-menu__item:hover > .lista-menu__link {
-        --webkit-fill-color: var(--branco);
+        -webkit-text-fill-color: var(--branco);
         text-decoration: none;
     }
 }
