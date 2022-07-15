@@ -121,6 +121,9 @@ li {
     .opcoes__item {
        padding: 2em 1em;
     }
+    .opcoes__item:hover {
+        background: var(--azul-degrade);
+    }
 
     .lista-menu__item:hover {
         background: var(--azul-degrade);
