@@ -123,6 +123,7 @@ li {
     }
     .opcoes__item:hover {
         background: var(--azul-degrade);
+        color: var(--branco);
     }
 
     .lista-menu__item:hover {
